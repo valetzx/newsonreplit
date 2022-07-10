@@ -13,3 +13,9 @@ git clone https://github.com/valetzx/newsonreplit && mv -b newsonreplit/* ./ && 
 ```
 
 再次感谢zkeq！
+
+OR: but not recommend 
+
+<a href="https://repl.it/github/valetzx/newsonreplit">
+  <img alt="Run on Repl.it" src="https://repl.it/badge/github/valetzx/newsonreplit" style="height: 40px; width: 190px;" />
+</a>
